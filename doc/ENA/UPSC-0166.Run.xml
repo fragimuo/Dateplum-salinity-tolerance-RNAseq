@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RUN_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.run.xsd">
+ <RUN alias="UPSC-0166-R0001" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0001"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/HC1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="a2cfa7ca91130dd40dd81d2d7c651ce1"/>
+    <FILE filename="UPSC-0166/HC1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="1b79fc28d92d0c21d4f3fcb726e834f9"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0002" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0002"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/HC2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="08ccdef8d036c77da87f53c09cc2a695"/>
+    <FILE filename="UPSC-0166/HC2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="d194862cb2eaca780c0febcd88e3ff5b"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0003" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0003"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/HC3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="5471ed77a7cdf074bcd73a6c2f993532"/>
+    <FILE filename="UPSC-0166/HC3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="aa8546367c5167725789bdf64009de8b"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0004" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0004"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/HS1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="90b8deb848d055702c76f9a3a9305951"/>
+    <FILE filename="UPSC-0166/HS1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="750ba8705301c56be068f47ecee7cd06"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0005" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0005"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/HS2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="194b050ad9babf5b32d7c1678a660510"/>
+    <FILE filename="UPSC-0166/HS2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="b36e983c4113fa0c130c16ebcba1bce7"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0006" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0006"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/HS3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="3eb346a94c0679a5d55a3da865aef218"/>
+    <FILE filename="UPSC-0166/HS3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="93b3e87031ed407a9d78b7c6721c1cd2"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0007" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0007"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/HT1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="7a2731cd3d57345a3ce4924749ab8318"/>
+    <FILE filename="UPSC-0166/HT1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="6320c70ca1b63163635a029484b525a2"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0008" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0008"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/HT2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="2b6b63094b2cc826c1e71af0d7624a56"/>
+    <FILE filename="UPSC-0166/HT2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="996b51d0f61adefc5362bfe89bec4160"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0009" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0009"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/HT3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="9d5bf8a1c2cf90c1ab99358c6bac2013"/>
+    <FILE filename="UPSC-0166/HT3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="be099e387a83ebb3b2b9c547273ec3d7"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0010" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0010"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/RC1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="76f2d1ae526ac1f2d74dac50ebb6e1db"/>
+    <FILE filename="UPSC-0166/RC1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="0c968d8f978d00cb8a62f2d1a985d7f2"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0011" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0011"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/RC2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="21c21c610f79ddf2f032fed2af610686"/>
+    <FILE filename="UPSC-0166/RC2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="9331b24754520bf58f92c973f767a7bb"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0012" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0012"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/RC3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="8bd473e14dff0cf521c3d86da226b7d4"/>
+    <FILE filename="UPSC-0166/RC3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="fbe0a1d6a1bc7168a363e14016ffbb1e"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0013" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0013"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/RS1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="e2b9f35dc7e6af17e19d3f9410eebd86"/>
+    <FILE filename="UPSC-0166/RS1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="09172a34540cd63ebeb832b1b16a66a2"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0014" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0014"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/RS2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="58f27bba02098bf72b788cad93229d80"/>
+    <FILE filename="UPSC-0166/RS2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="fda1706a4a92bbb844f114e7ad29c64e"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0015" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0015"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/RS3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="276a148e94b21723ee2f1086caa3f1b3"/>
+    <FILE filename="UPSC-0166/RS3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="86252ae3bdfb0f228a6e0dcafd5f398d"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0016" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0016"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/RT1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="762a4a7446fa1945a272aafa88ab51e6"/>
+    <FILE filename="UPSC-0166/RT1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="3ed7bfd58de17b1b843c6592d7f27d92"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0017" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0017"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/RT2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="c5dbe56b6f49157fa3d0303dd89c7443"/>
+    <FILE filename="UPSC-0166/RT2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="31a272018dfb5609cbdd4bec48fae974"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0166-R0018" center_name="UPSC" run_center="NOVOGENE" run_date="2018-02-04T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0166-E0018"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0166/RT3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="053c4538fd0e22095b17202486337444"/>
+    <FILE filename="UPSC-0166/RT3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="04e9442cb7112ab314c131dd7134761b"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+</RUN_SET>
